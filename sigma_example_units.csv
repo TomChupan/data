@@ -1,0 +1,2 @@
+﻿Time,IP._.Line.Volts,Psv,Ps,Psn,Pamb,Tw,Tamb,Mk,n(Mk),Acc_ax,Acc_hor,Acc_ver,Micr,Q,H,Pč,ETA,Vč,Q1,ro,ni,pnas,prot,NPSH,Micr/LAFp,Acc_ax/IIR.Filter,Acc_hor/IIR.Filter,Acc_ver/IIR.Filter,Acc_ax/IIR.Filter/RMS,Acc_hor/IIR.Filter/RMS,Acc_ver/IIR.Filter/RMS,Kamera.0
+s,l/s,kPa,kPa,kPa,kPa,°C,°C,Nm,1/min,ms-2,ms-2,ms-2,Pa,l/s,m,kW,%,kW,-,kg/m3,-,kPa,m,m,dBA,m/s2,m/s2,mm/s2,mm/s2,mm/s2,mm/s2,-
